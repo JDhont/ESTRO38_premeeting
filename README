@@ -1,14 +1,14 @@
 # THE CODE IN THIS REPOSITORY SHOULD NOT BE USED FOR ANY CLINICAL IMPLEMENTATIONS. 
 # BUT RATHER TO HAVE A WORKING EXAMPLE RELATED TO RT TO START WITH MACHINE LEARNING.
 
-# The presentation related to this example can be found on https://github.com/JDhont/ESTRO38_premeeting
+# The presentation related to this example can be found here (https://github.com/JDhont/ESTRO38_premeeting) as well.
 
 # The .ipynb file can be opened and run as a jupyter notebook.
 # In order for the code to work, you need to have python, Jupyter notebook and sklearn installed (including numpy, scipy, pandas and matplotlib packages). 
 # Go to the python.org, jupyter.org and sklearn.org download/installation pages and follow the instructions depending on your operating system.
 # Note that MAC often comes with pre-installed python.
 
-# The artificial (!!) dataset used in this example is available on https://github.com/JDhont/ESTRO38_premeeting
+# The artificial (!!) dataset used in this example is also located in this repository. 
 
 # Friendly question, remarks or recommendations are always welcome: jdhont @ etrovub . be (remove spaces)
 
